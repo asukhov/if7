@@ -8,7 +8,7 @@
   font-family: "Myriad Set Pro";
   font-style: normal;
   font-weight: 400;
-  src: local("Myriad Set Pro Text"), url(../fonts/myriad-set-pro_tnin.woff) format("woff"), url(../fonts/myriad-set-pro_thin.ttf) format("truetype");
+  src: local("Myriad Set Pro Text"), url(../fonts/myriad-set-pro_text.woff) format("woff"), url(../fonts/myriad-set-pro_text.ttf) format("truetype");
 }
 @font-face {
   font-family: "Myriad Set Pro";
